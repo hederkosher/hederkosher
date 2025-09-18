@@ -1,7 +1,7 @@
 # 👨‍💻 Ronen Shershnev
 
 <div align="center">
-  <img src="profile_image.jpg" alt="Ronen Shershnev" width="200" style="border-radius: 50%; margin: 20px 0; transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 25px rgba(0,0,0,0.25)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'">
+  <img src="Screenshot 2025-09-18 at 18.10.25.png" alt="Ronen Shershnev" width="200" style="border-radius: 50%; margin: 20px 0; transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 25px rgba(0,0,0,0.25)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'">
 </div>
 
 <h3 align="center">
