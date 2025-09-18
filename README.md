@@ -1,5 +1,9 @@
 # 👨‍💻 Ronen Shershnev
 
+<div align="center">
+  <img src="profile_image.jpg" alt="Ronen Shershnev" width="200" style="border-radius: 50%; margin: 20px 0;">
+</div>
+
 **`Software Engineer | AI & ML | Problem Solver`**
 
 I’m a 4th-year Software Engineering student at Afeka College of Engineering, specializing in **Artificial Intelligence**. I build practical, data-driven solutions with experience in **machine learning**, **deep learning (PyTorch)**, and **algorithmic problem solving**. My background includes leadership in the military where I led teams and operated mission-critical systems.
