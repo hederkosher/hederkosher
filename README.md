@@ -1,9 +1,25 @@
 # 👨‍💻 Ronen Shershnev
-**`Software Engineer | AI & ML | Problem Solver`**
 
-I’m a 4th-year Software Engineering student at Afeka College of Engineering, specializing in **Artificial Intelligence**. I build practical, data-driven solutions with experience in **machine learning**, **deep learning (PyTorch)**, and **algorithmic problem solving**. My background includes leadership in the military where I led teams and operated mission-critical systems.
+<div align="center">
+  <img src="profile_image.jpg" alt="Ronen Shershnev" width="200" style="border-radius: 50%; margin: 20px 0; transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 25px rgba(0,0,0,0.25)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'">
+</div>
 
-I’m driven by using **AI to solve real-world problems** and I love shipping end-to-end solutions: from data to deployment.
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+AI+%26+ML+%7C+Problem+Solver" alt="Typing SVG" />
+</h3>
+
+<div style="opacity: 0; animation: fadeIn 1s ease-in-out 0.5s forwards;">
+  <p>I'm a 4th-year Software Engineering student at Afeka College of Engineering, specializing in **Artificial Intelligence**. I build practical, data-driven solutions with experience in **machine learning**, **deep learning (PyTorch)**, and **algorithmic problem solving**. My background includes leadership in the military where I led teams and operated mission-critical systems.</p>
+  
+  <p>I'm driven by using **AI to solve real-world problems** and I love shipping end-to-end solutions: from data to deployment.</p>
+</div>
+
+<style>
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+</style>
 
 ---
 
@@ -22,16 +38,17 @@ I’m driven by using **AI to solve real-world problems** and I love shipping en
 
 ### 🧰 Skills
 
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="PyTorch" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="FastAPI" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
-<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="Jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
-<br/>
+<p align="left">
+  <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="transition: transform 0.2s ease; margin: 5px;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='translateY(0)'"/>
+  <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="transition: transform 0.2s ease; margin: 5px;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='translateY(0)'"/>
+  <img alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="transition: transform 0.2s ease; margin: 5px;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='translateY(0)'"/>
+  <img alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="transition: transform 0.2s ease; margin: 5px;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='translateY(0)'"/>
+  <img alt="PyTorch" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="transition: transform 0.2s ease; margin: 5px;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='translateY(0)'"/>
+  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="transition: transform 0.2s ease; margin: 5px;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='translateY(0)'"/>
+  <img alt="FastAPI" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="transition: transform 0.2s ease; margin: 5px;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='translateY(0)'"/>
+  <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="transition: transform 0.2s ease; margin: 5px;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='translateY(0)'"/>
+  <img alt="Jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="transition: transform 0.2s ease; margin: 5px;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='translateY(0)'"/>
+</p>
 
 ---
 
