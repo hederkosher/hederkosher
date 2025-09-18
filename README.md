@@ -118,9 +118,9 @@ Led teams and operated mission-critical systems, developing strong leadership an
 ### 🎓 Education
 
 **Afeka College of Engineering**  
-*B.Sc. Software Engineering* (2021-2025)  
+*B.Sc. Software Engineering* (2022-2026)  
 **Specialization:** Artificial Intelligence & Machine Learning  
- **Expected Graduation:** 2025
+ **Expected Graduation:** 2026
 
 **Key Coursework:**
 - Machine Learning & Deep Learning
